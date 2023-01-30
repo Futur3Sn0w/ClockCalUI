@@ -1,0 +1,19 @@
+{
+  "name": "clocalui",
+  "version": "0.0.1",
+  "description": "Windows 9 Tray Clock Experience",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^22.1.0",
+    "electron-packager": "^17.1.1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
